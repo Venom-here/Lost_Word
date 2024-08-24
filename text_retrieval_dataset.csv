@@ -1,0 +1,11 @@
+Original Text,Masked Text,Label
+The cat sat on the mat.,The cat sat [MASK] the mat.,on
+Artificial Intelligence is fascinating.,[MASK] Intelligence is fascinating.,Artificial
+The quick brown fox jumps over the lazy dog.,[MASK] quick brown fox jumps over the lazy dog.,The
+Data science is transforming the business world.,[MASK] science is transforming the business world.,Data
+Machine learning models need quality data to perform well.,Machine learning models need quality data [MASK] perform well.,to
+Natural language processing involves understanding human language.,Natural language processing involves understanding human [MASK],language.
+Predicting loan approval is crucial for banks.,[MASK] loan approval is crucial for banks.,Predicting
+The stock market is influenced by various factors.,The stock [MASK] is influenced by various factors.,market
+Real-time chat apps need to handle high user concurrency.,Real-time chat apps need to handle high user [MASK],concurrency.
+Statistics are fundamental to data science.,Statistics are fundamental to data [MASK],science.
